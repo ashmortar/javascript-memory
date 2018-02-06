@@ -1,0 +1,25 @@
+{
+  "name": "memory",
+  "description": "javascript execution of the game memory",
+  "main": "index.js",
+  "authors": [
+    "Aaron Ross"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "javascript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "moment": "^2.20.1"
+  }
+}
